@@ -14,8 +14,13 @@
   "author": "Maks Paradowski",
   "license": "ISC",
   "dependencies": {
+    "connect-mongo": "^5.1.0",
     "cookie-parser": "^1.4.6",
     "csurf": "^1.10.0",
-    "express": "^4.19.2"
+    "dotenv": "^16.4.7",
+    "express": "^4.19.2",
+    "express-session": "^1.18.1",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^6.15.0"
   }
 }
